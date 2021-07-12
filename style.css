@@ -1,0 +1,24 @@
+*,
+*::before,
+*::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+h1{
+    font-weight: 400;
+}
+
+.tekrar-oyna{
+    background-color: red;
+    color: #fff;
+    border: 0;
+    border-radius: 4px;
+    width: 100%;
+}
